@@ -8,15 +8,7 @@ Este directorio contiene los archivos fuente, simulaciones y la documentación c
 
 Reconocer la arquitectura del microcontrolador ATmega328P (Arduino UNO) y controlar sus periféricos de entradas/salidas digitales escribiendo y leyendo directamente sus registros mediante operaciones a nivel de bit, usando simulación en Wokwi y Microchip Studio.
 
-👥 Equipo de Trabajo (Grupo)
-
-Richard Cajas
-
-Ismael Gonzalez
-
-Jostin Vasquez
-
-Gyna Yupanqui
+👥 Nombre
 
 Miguel Veintimilla
 
